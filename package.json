@@ -2,13 +2,14 @@
 	"name": "vscode-react-impression",
 	"displayName": "vscode-react-impression",
 	"description": "Hover and preview React component rendering results.",
-	"version": "0.0.1",
+	"version": "0.0.0",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
 	"categories": [
 		"Other"
 	],
+	"author": "Jack Lu <jacklu@jacklu.me>",
 	"activationEvents": [
 		"onCommand:vscode-react-impression.helloWorld"
 	],
